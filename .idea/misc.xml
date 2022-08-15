@@ -1,5 +1,75 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/wanghongchuang/AndroidStudioProjects/AndroidMaster/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1935" />
+        <entry key="..\:/Users/wanghongchuang/AndroidStudioProjects/AndroidMaster/app/src/main/res/drawable/layer.xml" value="0.1405" />
+        <entry key="..\:/Users/wanghongchuang/AndroidStudioProjects/AndroidMaster/app/src/main/res/drawable/shape_add_share_et_bg.xml" value="0.1405" />
+        <entry key="..\:/Users/wanghongchuang/AndroidStudioProjects/AndroidMaster/app/src/main/res/drawable/shape_bottom_sheet_bg.xml" value="0.1405" />
+        <entry key="..\:/Users/wanghongchuang/AndroidStudioProjects/AndroidMaster/app/src/main/res/drawable/shape_cursor.xml" value="0.1405" />
+        <entry key="..\:/Users/wanghongchuang/AndroidStudioProjects/AndroidMaster/app/src/main/res/drawable/shape_load_dialog_circle.xml" value="0.1405" />
+        <entry key="..\:/Users/wanghongchuang/AndroidStudioProjects/AndroidMaster/app/src/main/res/drawable/shape_login_et_bg.xml" value="0.1405" />
+        <entry key="..\:/Users/wanghongchuang/AndroidStudioProjects/AndroidMaster/app/src/main/res/drawable/shape_todo_date_bg.xml" value="0.1405" />
+        <entry key="..\:/Users/wanghongchuang/AndroidStudioProjects/AndroidMaster/app/src/main/res/drawable/shape_todo_item_bg.xml" value="0.1405" />
+        <entry key="..\:/Users/wanghongchuang/AndroidStudioProjects/AndroidMaster/app/src/main/res/drawable/splash.xml" value="0.1405" />
+        <entry key="..\:/Users/wanghongchuang/AndroidStudioProjects/AndroidMaster/app/src/main/res/layout/activity_about_author.xml" value="0.309375" />
+        <entry key="..\:/Users/wanghongchuang/AndroidStudioProjects/AndroidMaster/app/src/main/res/layout/activity_add_or_update_todo.xml" value="0.1453125" />
+        <entry key="..\:/Users/wanghongchuang/AndroidStudioProjects/AndroidMaster/app/src/main/res/layout/activity_add_share.xml" value="0.2375" />
+        <entry key="..\:/Users/wanghongchuang/AndroidStudioProjects/AndroidMaster/app/src/main/res/layout/activity_agent_web.xml" value="0.309375" />
+        <entry key="..\:/Users/wanghongchuang/AndroidStudioProjects/AndroidMaster/app/src/main/res/layout/activity_fragment_container.xml" value="0.2375" />
+        <entry key="..\:/Users/wanghongchuang/AndroidStudioProjects/AndroidMaster/app/src/main/res/layout/activity_login.xml" value="0.2175925925925926" />
+        <entry key="..\:/Users/wanghongchuang/AndroidStudioProjects/AndroidMaster/app/src/main/res/layout/activity_main.xml" value="0.17447916666666666" />
+        <entry key="..\:/Users/wanghongchuang/AndroidStudioProjects/AndroidMaster/app/src/main/res/layout/activity_register.xml" value="0.309375" />
+        <entry key="..\:/Users/wanghongchuang/AndroidStudioProjects/AndroidMaster/app/src/main/res/layout/activity_search.xml" value="0.309375" />
+        <entry key="..\:/Users/wanghongchuang/AndroidStudioProjects/AndroidMaster/app/src/main/res/layout/activity_splash.xml" value="0.309375" />
+        <entry key="..\:/Users/wanghongchuang/AndroidStudioProjects/AndroidMaster/app/src/main/res/layout/activity_system_detail.xml" value="0.309375" />
+        <entry key="..\:/Users/wanghongchuang/AndroidStudioProjects/AndroidMaster/app/src/main/res/layout/bottom_sheet_agent_web.xml" value="0.309375" />
+        <entry key="..\:/Users/wanghongchuang/AndroidStudioProjects/AndroidMaster/app/src/main/res/layout/dialog_loading.xml" value="0.309375" />
+        <entry key="..\:/Users/wanghongchuang/AndroidStudioProjects/AndroidMaster/app/src/main/res/layout/dialog_locate_tag_view.xml" value="0.309375" />
+        <entry key="..\:/Users/wanghongchuang/AndroidStudioProjects/AndroidMaster/app/src/main/res/layout/dialog_operate_tip.xml" value="0.309375" />
+        <entry key="..\:/Users/wanghongchuang/AndroidStudioProjects/AndroidMaster/app/src/main/res/layout/fragment_home.xml" value="0.309375" />
+        <entry key="..\:/Users/wanghongchuang/AndroidStudioProjects/AndroidMaster/app/src/main/res/layout/fragment_home_newest_share.xml" value="0.309375" />
+        <entry key="..\:/Users/wanghongchuang/AndroidStudioProjects/AndroidMaster/app/src/main/res/layout/fragment_home_public_account.xml" value="0.309375" />
+        <entry key="..\:/Users/wanghongchuang/AndroidStudioProjects/AndroidMaster/app/src/main/res/layout/fragment_mine.xml" value="0.309375" />
+        <entry key="..\:/Users/wanghongchuang/AndroidStudioProjects/AndroidMaster/app/src/main/res/layout/fragment_navigation.xml" value="0.309375" />
+        <entry key="..\:/Users/wanghongchuang/AndroidStudioProjects/AndroidMaster/app/src/main/res/layout/fragment_project.xml" value="0.309375" />
+        <entry key="..\:/Users/wanghongchuang/AndroidStudioProjects/AndroidMaster/app/src/main/res/layout/fragment_system.xml" value="0.309375" />
+        <entry key="..\:/Users/wanghongchuang/AndroidStudioProjects/AndroidMaster/app/src/main/res/layout/header_points_rank.xml" value="0.309375" />
+        <entry key="..\:/Users/wanghongchuang/AndroidStudioProjects/AndroidMaster/app/src/main/res/layout/header_view_fragment_home.xml" value="0.309375" />
+        <entry key="..\:/Users/wanghongchuang/AndroidStudioProjects/AndroidMaster/app/src/main/res/layout/include_points_header.xml" value="0.309375" />
+        <entry key="..\:/Users/wanghongchuang/AndroidStudioProjects/AndroidMaster/app/src/main/res/layout/item_about_author.xml" value="0.309375" />
+        <entry key="..\:/Users/wanghongchuang/AndroidStudioProjects/AndroidMaster/app/src/main/res/layout/item_collection.xml" value="0.309375" />
+        <entry key="..\:/Users/wanghongchuang/AndroidStudioProjects/AndroidMaster/app/src/main/res/layout/item_dialog_locate_recycler_view.xml" value="0.309375" />
+        <entry key="..\:/Users/wanghongchuang/AndroidStudioProjects/AndroidMaster/app/src/main/res/layout/item_home_article.xml" value="0.309375" />
+        <entry key="..\:/Users/wanghongchuang/AndroidStudioProjects/AndroidMaster/app/src/main/res/layout/item_home_banner.xml" value="0.309375" />
+        <entry key="..\:/Users/wanghongchuang/AndroidStudioProjects/AndroidMaster/app/src/main/res/layout/item_home_project.xml" value="0.309375" />
+        <entry key="..\:/Users/wanghongchuang/AndroidStudioProjects/AndroidMaster/app/src/main/res/layout/item_home_public_account.xml" value="0.309375" />
+        <entry key="..\:/Users/wanghongchuang/AndroidStudioProjects/AndroidMaster/app/src/main/res/layout/item_home_share.xml" value="0.309375" />
+        <entry key="..\:/Users/wanghongchuang/AndroidStudioProjects/AndroidMaster/app/src/main/res/layout/item_my_points_record.xml" value="0.309375" />
+        <entry key="..\:/Users/wanghongchuang/AndroidStudioProjects/AndroidMaster/app/src/main/res/layout/item_my_todo.xml" value="0.309375" />
+        <entry key="..\:/Users/wanghongchuang/AndroidStudioProjects/AndroidMaster/app/src/main/res/layout/item_navigation_category.xml" value="0.309375" />
+        <entry key="..\:/Users/wanghongchuang/AndroidStudioProjects/AndroidMaster/app/src/main/res/layout/item_open_source.xml" value="0.309375" />
+        <entry key="..\:/Users/wanghongchuang/AndroidStudioProjects/AndroidMaster/app/src/main/res/layout/item_qa.xml" value="0.309375" />
+        <entry key="..\:/Users/wanghongchuang/AndroidStudioProjects/AndroidMaster/app/src/main/res/layout/item_share.xml" value="0.309375" />
+        <entry key="..\:/Users/wanghongchuang/AndroidStudioProjects/AndroidMaster/app/src/main/res/layout/item_system_category.xml" value="0.309375" />
+        <entry key="..\:/Users/wanghongchuang/AndroidStudioProjects/AndroidMaster/app/src/main/res/layout/layout_empty_view.xml" value="0.309375" />
+        <entry key="..\:/Users/wanghongchuang/AndroidStudioProjects/AndroidMaster/app/src/main/res/layout/layout_home_item_view.xml" value="0.309375" />
+        <entry key="..\:/Users/wanghongchuang/AndroidStudioProjects/AndroidMaster/app/src/main/res/layout/layout_my_info.xml" value="0.309375" />
+        <entry key="..\:/Users/wanghongchuang/AndroidStudioProjects/AndroidMaster/app/src/main/res/layout/layout_search_history_view.xml" value="0.309375" />
+        <entry key="..\:/Users/wanghongchuang/AndroidStudioProjects/AndroidMaster/app/src/main/res/layout/layout_swipe_recycler.xml" value="0.309375" />
+        <entry key="..\:/Users/wanghongchuang/AndroidStudioProjects/AndroidMaster/app/src/main/res/layout/layout_tab.xml" value="0.309375" />
+        <entry key="..\:/Users/wanghongchuang/AndroidStudioProjects/AndroidMaster/app/src/main/res/layout/layout_tab_todo.xml" value="0.309375" />
+        <entry key="..\:/Users/wanghongchuang/AndroidStudioProjects/AndroidMaster/app/src/main/res/layout/tag_view.xml" value="0.309375" />
+        <entry key="..\:/Users/wanghongchuang/AndroidStudioProjects/AndroidMaster/app/src/main/res/layout/toast_layout.xml" value="0.309375" />
+        <entry key="..\:/Users/wanghongchuang/AndroidStudioProjects/AndroidMaster/app/src/main/res/layout/toolbar_activity.xml" value="0.309375" />
+        <entry key="..\:/Users/wanghongchuang/AndroidStudioProjects/AndroidMaster/app/src/main/res/layout/toolbar_fragment.xml" value="0.309375" />
+        <entry key="..\:/Users/wanghongchuang/AndroidStudioProjects/AndroidMaster/app/src/main/res/layout/toolbar_search_activity.xml" value="0.309375" />
+        <entry key="..\:/Users/wanghongchuang/AndroidStudioProjects/AndroidMaster/app/src/main/res/layout/toolbar_todo_activity.xml" value="0.309375" />
+        <entry key="..\:/Users/wanghongchuang/AndroidStudioProjects/AndroidMaster/app/src/main/res/menu/menu_home_bottom_navigation.xml" value="0.309375" />
+      </map>
+    </option>
+  </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
